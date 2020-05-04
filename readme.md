@@ -1,4 +1,4 @@
 
-# This is my first test of pushing to Github
+# Basic Maximum Likelihood Estimation
 
-The following program is based off Bradley Setzler
+The following program is based off Bradley Setzler's
