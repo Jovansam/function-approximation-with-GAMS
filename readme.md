@@ -1,4 +1,3 @@
 
-# Basic Maximum Likelihood Estimation
+# Simple illustration of function approximation using odinary and Chebyshev polynomials
 
-The following program is based off Bradley Setzler's
